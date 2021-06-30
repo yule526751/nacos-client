@@ -24,7 +24,7 @@ import (
 	"time"
 
 	rotatelogs "github.com/lestrrat/go-file-rotatelogs"
-	"github.com/nacos-group/nacos-sdk-go/common/file"
+	"github.com/yule526751/nacos-client/common/file"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )

@@ -19,7 +19,7 @@ package constant
 import (
 	"os"
 
-	"github.com/nacos-group/nacos-sdk-go/common/file"
+	"github.com/yule526751/nacos-client/common/file"
 )
 
 func NewClientConfig(opts ...ClientOption) *ClientConfig {

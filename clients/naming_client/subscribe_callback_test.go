@@ -23,9 +23,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nacos-group/nacos-sdk-go/model"
-	"github.com/nacos-group/nacos-sdk-go/util"
-	"github.com/nacos-group/nacos-sdk-go/vo"
+	"github.com/yule526751/nacos-client/model"
+	"github.com/yule526751/nacos-client/util"
+	"github.com/yule526751/nacos-client/vo"
 	"github.com/stretchr/testify/assert"
 )
 

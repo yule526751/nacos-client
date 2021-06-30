@@ -24,13 +24,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/nacos-group/nacos-sdk-go/clients/cache"
-	"github.com/nacos-group/nacos-sdk-go/clients/nacos_client"
-	"github.com/nacos-group/nacos-sdk-go/common/constant"
-	"github.com/nacos-group/nacos-sdk-go/common/logger"
-	"github.com/nacos-group/nacos-sdk-go/model"
-	"github.com/nacos-group/nacos-sdk-go/util"
-	"github.com/nacos-group/nacos-sdk-go/vo"
+	"github.com/yule526751/nacos-client/clients/cache"
+	"github.com/yule526751/nacos-client/clients/nacos_client"
+	"github.com/yule526751/nacos-client/common/constant"
+	"github.com/yule526751/nacos-client/common/logger"
+	"github.com/yule526751/nacos-client/model"
+	"github.com/yule526751/nacos-client/util"
+	"github.com/yule526751/nacos-client/vo"
 	"github.com/pkg/errors"
 )
 

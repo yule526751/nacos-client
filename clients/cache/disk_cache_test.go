@@ -20,7 +20,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/nacos-group/nacos-sdk-go/common/constant"
+	"github.com/yule526751/nacos-client/common/constant"
 	"github.com/stretchr/testify/assert"
 )
 

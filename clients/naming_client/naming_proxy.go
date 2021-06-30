@@ -23,12 +23,12 @@ import (
 	"strconv"
 
 	"github.com/buger/jsonparser"
-	"github.com/nacos-group/nacos-sdk-go/common/constant"
-	"github.com/nacos-group/nacos-sdk-go/common/http_agent"
-	"github.com/nacos-group/nacos-sdk-go/common/logger"
-	"github.com/nacos-group/nacos-sdk-go/common/nacos_server"
-	"github.com/nacos-group/nacos-sdk-go/model"
-	"github.com/nacos-group/nacos-sdk-go/util"
+	"github.com/yule526751/nacos-client/common/constant"
+	"github.com/yule526751/nacos-client/common/http_agent"
+	"github.com/yule526751/nacos-client/common/logger"
+	"github.com/yule526751/nacos-client/common/nacos_server"
+	"github.com/yule526751/nacos-client/model"
+	"github.com/yule526751/nacos-client/util"
 )
 
 type NamingProxy struct {
